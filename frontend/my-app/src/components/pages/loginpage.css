@@ -1,0 +1,14 @@
+.login-page {
+    background: #121212;
+}
+
+input,
+button {
+    border-radius: 8px;
+}
+
+button:focus,
+input:focus {
+    outline: none;
+    box-shadow: 0px 0px 8px rgba(255, 0, 0, 0.8);
+}

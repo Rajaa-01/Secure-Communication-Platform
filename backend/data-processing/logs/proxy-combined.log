@@ -1,0 +1,6 @@
+{"level":"info","message":"Proxy server running on port 5002","timestamp":"2025-05-11T00:37:02.813Z"}
+{"level":"info","message":"Available services: chat, meet, blockchain, userProfile","timestamp":"2025-05-11T00:37:02.816Z"}
+{"level":"info","message":"CSV export path: C:\\Users\\user1\\Desktop\\project - IDS\\backend\\data-processing\\logs\\network_traffic_unswnb15.csv","timestamp":"2025-05-11T00:37:02.817Z"}
+{"level":"info","message":"Exported 2 records to CSV","timestamp":"2025-05-11T00:42:02.820Z"}
+{"level":"info","message":"Exported 5 records to CSV","timestamp":"2025-05-11T00:47:02.815Z"}
+{"level":"info","message":"Shutting down gracefully...","timestamp":"2025-05-11T01:55:31.358Z"}

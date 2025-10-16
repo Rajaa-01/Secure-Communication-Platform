@@ -1,0 +1,7 @@
+{"level":"info","message":"Proxy server running on port 5002"}
+{"level":"info","message":"Available routes:\n    - /chat -> http://localhost:4200\n    - /meet -> http://localhost:8000\n    - /blockchain -> http://localhost:5000\n    - /profile -> http://localhost:5001"}
+{"level":"info","message":"Proxy server running on port 5002"}
+{"level":"info","message":"Available routes:\n    - /chat -> http://localhost:4200\n    - /meet -> http://localhost:8000\n    - /blockchain -> http://localhost:5000\n    - /profile -> http://localhost:5001"}
+{"level":"info","message":"No data to export"}
+{"level":"info","message":"Proxy server running on port 5002"}
+{"level":"info","message":"Available routes:\n    - /chat -> http://localhost:4200\n    - /meet -> http://localhost:8000\n    - /blockchain -> http://localhost:5000\n    - /profile -> http://localhost:5001"}

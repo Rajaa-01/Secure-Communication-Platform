@@ -1,0 +1,68 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.16",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.8.4",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.6.0",
+    "emoji-picker-react": "^4.12.2",
+    "ethers": "^5.8.0",
+    "express": "^5.1.0",
+    "framer-motion": "^12.6.3",
+    "http-proxy-middleware": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "my-app": "file:",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^4.12.0",
+    "react-player": "^2.16.0",
+    "react-refresh": "^0.17.0",
+    "react-router-dom": "^6.30.0",
+    "react-scripts": "^5.0.1",
+    "socket.io-client": "^4.8.1",
+    "styled-components": "^6.1.17",
+    "uuid": "^11.1.0",
+    "web-vitals": "^2.1.4",
+    "winston": "^3.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "autoprefixer": "^10.4.21",
+    "babel-loader": "^10.0.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17"
+  }
+}
